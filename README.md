@@ -8,7 +8,9 @@ conda env create -f environment.yml
 # Dataset
 The data for training, dev and testing of Baeyer-Villiger reaction are provided in ```data/Baeyer-Villiger reaction``` file. 
 The data for training, dev and testing of Heck prediction are provided in ```data/Heck reaction``` file.
-The data for training, dev and testing of Sharpless prediction are provided in ```data/ Sharpless reaction``` file.
+The data for training, dev and testing of C-C bond formation reaction are provided in ```data/ C-C bond formation reaction``` file.
+The data for training, dev and testing of Functional group interconversion reaction are provided in ```data/ Functional group interconversion reaction``` file.
+The data for reaction transfer learning are provided in ```data/ USPTO reaction``` file.
 The molecular ChEMBL data can be found https://www.ebi.ac.uk/chembl/
 The molecular ZINC data can be found http://zinc.docking.org/tranches/home/
 
