@@ -1,6 +1,5 @@
 # Self-supervised molecular pretraining strategy for low-resource reaction prediction scenarios
-This is the code for "Self-supervised molecular pretraining strategy for low-resource reaction prediction scenarios" paper. The preprint of this paper can be found in ChemRxiv with DOI: 10.33774/chemrxiv-2021-fxvwg-v2
-
+This is the code for "Self-supervised molecular pretraining strategy for low-resource reaction prediction scenarios" paper.
 # Conda Environemt Setup
 conda env create -f environment.yml
 
